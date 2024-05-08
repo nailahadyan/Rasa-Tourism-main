@@ -7,8 +7,8 @@ web pemesanan makanan dengan judul "Rasa Tourism"
 Sprint 1
 
 - Home
-- Produk
-- Promo
+- Menampilkan Produk
+- Menampilkan Promo
 
 ## Keterangan Folder
 
